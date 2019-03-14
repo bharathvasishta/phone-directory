@@ -1,5 +1,5 @@
 # phone-directory
-Contact directory using bootstrap, css and jquery
+Contact directory using bootstrap, css and jquery, javascript
 
 Phone directory is a web app to create new contact, delete old contact.
 
